@@ -105,19 +105,19 @@ body, html{
   width: 2.6em;
   left: 50%;
   top: 34vh;
-  font-size: 10em;
+  font-size: 40em;
   text-align: center;
   margin-left: -1.3em;
-  line-height: 0.8em;
+  line-height: 2.8em;
   color: #000;
   text-shadow: -2px -2px 0 #EBD71C, 2px -2px 0 #EBD71C, -2px 2px 0 #EBD71C, 2px 2px 0 #EBD71C;
   opacity: 0;
   z-index: 1;
-  -webkit-animation: logo 6s ease-out 4s;
-  -moz-animation: logo 6s ease-out 4s;
-  -ms-animation: logo 6s ease-out 4s;
-  -o-animation: logo 6s ease-out 4s;
-  animation: logo 6s ease-out 4s;
+  -webkit-animation: logo 6s ease-out 5.2s;
+  -moz-animation: logo 6s ease-out 5.2s;
+  -ms-animation: logo 6s ease-out 5.2s;
+  -o-animation: logo 6s ease-out 5.2s;
+  animation: logo 6s ease-out 5.2s;
 }
 
 .star-wars-intro .main-logo > img {
@@ -204,3 +204,4 @@ body, html{
     animation: scroll 100s linear 8s forwards;
   }
 }
+

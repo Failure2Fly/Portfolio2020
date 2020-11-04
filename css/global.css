@@ -4,7 +4,7 @@ body{
 }
 #landing{
   min-height:100vh;
-  background:url(http://williamgallagher.com/wp-content/uploads/2014/05/astronaut-outer-space-moon-nasa-astronauts-free-208100.jpg)no-repeat center center fixed;
+  background:url(https://maas.museum/app/uploads/2016/05/astronaut-outer-space-moon-nasa-astronauts-free-208100-2500x1667.jpg)no-repeat center center fixed;
   background-size:cover;
   -webkit-background-size:cover;
   -o-background-size:cover;
@@ -104,7 +104,7 @@ a:hover,a:focus{text-decoration:none;}
 /* end cool name effect */
 
 
-.text-2 a:nth-chyild(even){
+.text-2 a:nth-child(even){
 margin: 10px;
 }
 .nav-btn{
@@ -133,7 +133,7 @@ padding-top: 15px;
 color: white;
 }
 .work-link:hover{
-colore: #EBD71C;
+color: #EBD71C;
 }
 .cust-caption{
   display:none;
