@@ -48,9 +48,6 @@ body{
   position: relative;
 }
 
-.main-portfolio{
-  margin: 60px 0px 0px 0px;
-}
 .skills{
   flex-direction: column;
   align-items: center;
@@ -72,7 +69,6 @@ a:hover,a:focus{text-decoration:none;}
   top: 45%;
   transform: translateY(-50%);
   margin: 0 auto;
-  width: 320px;
   max-height:60px;
   cursor:default;
 }
@@ -104,9 +100,9 @@ a:hover,a:focus{text-decoration:none;}
 /* end cool name effect */
 
 
-.text-2 a:nth-child(even){
+/* .text-2 a:nth-child(even){
 margin: 10px;
-}
+} */
 .nav-btn{
 background: #011C27;
 color: white;
@@ -152,6 +148,28 @@ color: #EBD71C;
 
 
 
+.col-md-4{
+  width: 30%;
+}
+.word-desc{
+  background-color: #011C27;
+  padding: 30px;
+  margin: 15px;
+}
+.project-description{
+  border: solid white 1px;
+  border-radius: 2%;
+  padding: 10px;
+}
+.portfolio_titles{
+  text-align: center; 
+  font-size: 50px; 
+  border-bottom: solid 2px white;
+  margin: 80px 350px 10px 350px;
+}
+
+
+
 
 @media only screen and (max-width : 768px){
   #text-changer-1{
@@ -160,16 +178,21 @@ color: #EBD71C;
   .nav-btn h2{
   margin: 6px;
   }
-
+  .col-md-4{
+    width: 90% !important;
+  }
+  .portfolio_titles{
+    margin: 20px auto;
+  }
 }
 @media only screen and (max-width: 340px){
 a:hover,a:focus{text-decoration:none;}
 .svg-wrapper{
   top: 55%;
-  width: 320px;
   max-height:120px;
   cursor:default;
   }
+
 }
 
 
