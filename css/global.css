@@ -186,9 +186,6 @@ color: #EBD71C;
   .portfolio_titles{
     margin: 20px auto;
   }
-  .title-content{
-    width: 100%;
-  }
 }
 @media only screen and (max-width: 340px){
 a:hover,a:focus{text-decoration:none;}
@@ -196,6 +193,9 @@ a:hover,a:focus{text-decoration:none;}
   top: 55%;
   max-height:120px;
   cursor:default;
+  }
+  .title-content{
+    width: 100%;
   }
 
 }
