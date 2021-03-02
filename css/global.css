@@ -120,6 +120,9 @@ margin: 12px;
 .content{
   margin:0px 50px;
 }
+.content-body{
+  width: 100%;
+}
 .word-desc{
 text-align: center;
 }
