@@ -4,7 +4,7 @@ body{
 }
 #landing{
   min-height:100vh;
-  background:url(https://maas.museum/app/uploads/2016/05/astronaut-outer-space-moon-nasa-astronauts-free-208100-2500x1667.jpg)no-repeat center center fixed;
+  background:url(https://maas.museum/app/uploads/2016/05/astronaut-outer-space-moon-nasa-astronauts-free-208100-2500x1667.jpg)no-repeat center center;
   background-size:cover;
   -webkit-background-size:cover;
   -o-background-size:cover;
@@ -20,8 +20,7 @@ body{
 /* end landing page */
 
 #about{
-  background:url(https://www.newstatesman.com/sites/default/files/styles/nodeimage/public/blogs_2017/07/2017_27_nature.jpg?itok=2ovGuIBv) no-repeat center center 
-  fixed;
+  background:url(https://www.newstatesman.com/sites/default/files/styles/nodeimage/public/blogs_2017/07/2017_27_nature.jpg?itok=2ovGuIBv) no-repeat center center;
   background-size:cover;
   -webkit-background-size:cover;
   -o-background-size:cover;
@@ -30,7 +29,7 @@ body{
   position: relative;
 }
 #portfolio{
-  background:url(https://twistedsifter.files.wordpress.com/2016/03/best-pics-from-year-in-space-nasa-scott-kelly-35.jpg) no-repeat center center fixed;
+  background:url(https://twistedsifter.files.wordpress.com/2016/03/best-pics-from-year-in-space-nasa-scott-kelly-35.jpg) no-repeat center center;
   background-size:cover;
   -webkit-background-size:cover;
   -o-background-size:cover;
@@ -39,7 +38,7 @@ body{
   position: relative;
 }
 #contact{
-  background:url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/la-city-overview-timelapse_wyrpje-br__F0000.png) no-repeat center center fixed;
+  background:url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/la-city-overview-timelapse_wyrpje-br__F0000.png) no-repeat center center;
   background-size:cover;
   -webkit-background-size:cover;
   -o-background-size:cover;
