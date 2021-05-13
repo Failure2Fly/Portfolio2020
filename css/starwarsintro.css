@@ -128,6 +128,10 @@ body, html{
   max-width: 100%;
 }
 
+iframe{
+  margin: 0px auto;
+}
+
 @-webkit-keyframes intro {
   0% { opacity: 1; }
   90% { opacity: 1; }
