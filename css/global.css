@@ -137,6 +137,9 @@ color: white;
 .work-link:hover{
 color: #EBD71C;
 }
+.image-link:hover{
+  background-color: #EBD71C;
+}
 .cust-caption{
   display:none;
   position: absolute;
